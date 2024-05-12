@@ -45,9 +45,3 @@ I'm Josue Garcia :D from El Salvador (*￣3￣)╭ .
 </div>
 
 
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
