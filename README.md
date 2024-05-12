@@ -44,13 +44,7 @@ I'm Josue Garcia :D from El Salvador (*￣3￣)╭ .
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-line-wordmark.svg" title="Visual" **alt="Visual" width="40" height="40"/>
 </div>
 
----
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JosueGarcia04&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ### :writing_hand: Blog Posts :
 
