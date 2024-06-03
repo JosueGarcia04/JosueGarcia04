@@ -1,7 +1,7 @@
 #   .・。.・゜✭・.・✫・゜・。.  Hi there! .・。.・゜✭・.・✫・゜・。.
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/2x0VePimPaFJDpGZ7H" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mood-2x0VePimPaFJDpGZ7H" width="200" height="200">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/2x0VePimPaFJDpGZ7H" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 ---
