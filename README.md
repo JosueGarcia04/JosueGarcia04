@@ -1,7 +1,7 @@
 #   .・。.・゜✭・.・✫・゜・。.  Hi there! .・。.・゜✭・.・✫・゜・。.
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/2x0VePimPaFJDpGZ7H" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/2x0VePimPaFJDpGZ7H" width="300" height="300"/>
 </div>
 
 ---
