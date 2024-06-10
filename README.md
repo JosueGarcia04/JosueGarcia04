@@ -1,17 +1,10 @@
 #   .・。.・゜✭・.・✫・゜・。.  Hi there! .・。.・゜✭・.・✫・゜・。.
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNud2t1c24yZW9oazEzd2NpZ21mMzExdnMzeTRqdjU3eWhudGR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" height="300"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
 
-I'm Josue Garcia :D from El Salvador (*￣3￣)╭ .
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :telescope: studying to be a system engineer, i collaborate on proyects being Fullstack ✅
+I'm Josue Garcia from El Salvador!
 
 - :seedling: Learning new things 📃
 
