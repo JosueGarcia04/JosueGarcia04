@@ -1,8 +1,7 @@
 #   .・。.・゜✭・.・✫・゜・。.  Hi there! .・。.・゜✭・.・✫・゜・。.
 
----
 
-### :woman_technologist: About Me :
+### :men_technologist: About Me :
 
 I'm Josue Garcia from El Salvador!
 
