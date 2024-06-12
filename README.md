@@ -1,4 +1,4 @@
-#   .・。.・゜✭・.・✫・゜・。.  Hi there! .・。.・゜✭・.・✫・゜・。.
+#   Hi!
 
 
 ### :woman_technologist: About Me :
