@@ -1,13 +1,10 @@
-#   Hi!
+# Hi!
 
-
-### :woman_technologist: About Me :
-
-I'm Josue Garcia from El Salvador!
-
-- :seedling: Learning new things 📃
-
----
+### 🤵 About Me (Josue Adrian):
+- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```.javascripy```
+- 🌱 I’m currently learning new things
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,4 +26,8 @@ I'm Josue Garcia from El Salvador!
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-line-wordmark.svg" title="Visual" **alt="Visual" width="40" height="40"/>
 </div>
 
+---
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
