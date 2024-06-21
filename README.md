@@ -1,9 +1,9 @@
 # Hi!
 
 ### 🤵 About Me (Josue Adrian):
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+- 🏦 I'm currently working in many proyects
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.javascripy```
+- 🤔 I use daily ```.php```,```.javascripy```
 - 🌱 I’m currently learning new things
 
 ### :hammer_and_wrench: Languages and Tools :
