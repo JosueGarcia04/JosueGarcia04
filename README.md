@@ -3,7 +3,7 @@
 ### 🤵 About Me (Josue Adrian):
 - 🏦 I'm currently working in many proyects
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.php```,```.javascripy```
+- 🤔 I use daily ```.php``` ```.javascripy```
 - 🌱 I’m currently learning new things
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,4 +28,5 @@
 
 ---
 ### 🐱My Github stats:
+![JosueGarcia04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueGarcia04&theme=vue-dark&hide_border=true)
 ![JosueGarcia04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGarcia04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
