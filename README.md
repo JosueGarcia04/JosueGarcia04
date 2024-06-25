@@ -12,6 +12,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="60" height="40"/>
 </div>
 
----
 ### 🐱My Github stats:
 ![JosueGarcia04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueGarcia04&theme=vue-dark&hide_border=true)
